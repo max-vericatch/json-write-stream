@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
 
   s.description = s.summary = "An easy, streaming way to generate JSON."
 
-  s.add_dependency 'json_pure', '~> 1.8.0'
+  s.add_dependency 'json_pure'
 
   s.platform = Gem::Platform::RUBY
   s.has_rdoc = true
